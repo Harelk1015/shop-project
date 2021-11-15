@@ -1,0 +1,50 @@
+.item {
+  display: flex;
+  border: 1px solid #ccc;
+  /* padding: 0px; */
+  width: 50%;
+  flex-direction: column;
+  align-items: flex-end;
+  max-height: 100%;
+  /* background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/9c/Tesla_Model_S_Japan.jpg');
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  object-fit: contain; */
+}
+
+.item img {
+  margin-bottom: 100px;
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.item p {
+  padding-top: -100px;
+  max-height: 100%;
+  margin-top: -18px;
+  margin-right: 10px;
+
+}
+
+.item h2 {
+  max-height: 40%;
+  max-width: 100%;
+  margin-top: -95px;
+  margin-right: 10px;
+}
+
+.item button {
+  margin-right: 7px;
+  margin-top: -20px;
+  font: inherit;
+  font-weight: bold;
+  font-size: 1.25rem;
+  color: #77002e;
+  border: 1px solid #77002e;
+  text-align: center;
+  border-radius: 6px;
+  background-color: transparent;
+  cursor: pointer;
+}

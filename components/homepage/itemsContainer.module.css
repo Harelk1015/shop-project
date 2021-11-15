@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: right;
+  border: 1px solid #ccc;
+  width: 100%;
+  height: 4cm;
+  margin-bottom: 120px;
+}
+
+
