@@ -1,6 +1,6 @@
 // import { MongoClient } from 'mongodb';
 import Modal from '../UI/Modal';
-import CartItem from './CartItem';
+import CartItem from './Cartitem';
 import classes from './Cart.module.css';
 // import Checkout from './Checkout';
 import { useContext } from 'react';
