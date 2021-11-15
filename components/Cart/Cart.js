@@ -2,7 +2,7 @@
 import Modal from '../UI/Modal';
 import CartItem from './CartItem';
 import classes from './Cart.module.css';
-import Checkout from './Checkout';
+// import Checkout from './Checkout';
 import { useContext } from 'react';
 import CartContext from '../../store/cart-context';
 import { useDispatch } from 'react-redux';
